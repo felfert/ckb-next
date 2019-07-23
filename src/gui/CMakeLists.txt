@@ -155,6 +155,8 @@ if (MACOS OR LINUX)
               mainwindow.cpp
               modeselectdialog.cpp
               modelistwidget.cpp
+              modelistdelegate.cpp
+              modelistproxystyle.cpp
               mperfwidget.cpp
               rebindwidget.cpp
               rlistwidget.cpp
@@ -199,6 +201,8 @@ if (MACOS OR LINUX)
               media.h
               modeselectdialog.h
               modelistwidget.h
+              modelistdelegate.h
+              modelistproxystyle.h
               mperfwidget.h
               rebindwidget.h
               rlistwidget.h
